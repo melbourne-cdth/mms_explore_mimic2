@@ -1,0 +1,3 @@
+#!/bin/bash
+
+jupyter labextension install @jupyterlab/vega5-extension@2.1.0

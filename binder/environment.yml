@@ -1,0 +1,18 @@
+name: cdth_mimic2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - vega
+  - altair
+  - python-dateutil
+  - requests
+  - nodejs
+  - jupyterlab
+  - ipywidgets
+  - widgetsnbextension
+  - markdown
+  - pip:
+    - pymysql
+    - ibis-framework[mysql]

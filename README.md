@@ -1,5 +1,7 @@
 # Exploring MIMIC 2 with Jupyter
 
+Run these notebooks by clicking on the "launch binder" button!
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbourne-cdth/explore_mimic2/HEAD/?urlpath=lab)
 
 These notebooks provide you the opportunity to gain familiarity with medical data by some exploration of a small collection of de-identified data collected during the course of hospitalizations.

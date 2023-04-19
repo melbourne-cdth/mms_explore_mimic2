@@ -2,7 +2,7 @@
 
 Run these notebooks by clicking on the "launch binder" button!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbourne-cdth/explore_mimic2/HEAD/?urlpath=lab)
+[![Binder](https://binder.validitron.io/badge_logo.svg)](https://binder.validitron.io/v2/gh/melbourne-cdth/mms_explore_mimic2/HEAD)
 
 These notebooks provide you the opportunity to gain familiarity with medical data by some exploration of a small collection of de-identified data collected during the course of hospitalizations.
 

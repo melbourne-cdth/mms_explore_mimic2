@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - pandas
+  - pandas < 2.0
   - pip
   - vega
   - altair

@@ -4,6 +4,12 @@ Run these notebooks by clicking on the "launch binder" button!
 
 [![Binder](https://binder.validitron.io/badge_logo.svg)](https://binder.validitron.io/v2/gh/melbourne-cdth/mms_explore_mimic2/HEAD)
 
+## MyBinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbourne-cdth/mms_explore_mimic2/HEAD?urlpath=%2Fdoc%2Ftree%2Fvisualize_case_timeline.ipynb)
+
+## Description
+
 These notebooks provide you the opportunity to gain familiarity with medical data by some exploration of a small collection of de-identified data collected during the course of hospitalizations.
 
 There are currently three notebooks. A fourth notebook exploring text data will be available shortly.
